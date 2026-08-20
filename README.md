@@ -22,6 +22,10 @@ python -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-## Before publishing
+## Publishing
 
-Follow `SETUP.md` to create the GitHub repository, enable GitHub Pages, and connect the Decap CMS login.
+GitHub Pages is enabled and deployment is handled automatically by `.github/workflows/deploy.yml` on pushes to `main`.
+
+## CMS setup
+
+Follow `SETUP.md` to connect the Decap CMS login after the public site is live.
