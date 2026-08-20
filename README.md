@@ -26,6 +26,8 @@ Then visit `http://localhost:8000`.
 
 GitHub Pages is enabled and deployment is handled automatically by `.github/workflows/deploy.yml` on pushes to `main`.
 
+The site has been restored to the stable pre-preview-card version.
+
 ## CMS setup
 
 Follow `SETUP.md` to connect the Decap CMS login after the public site is live.
