@@ -1,13 +1,1 @@
-{
-  "id": "liveworksheets",
-  "title": "LiveWorksheets",
-  "url": "https://www.liveworksheets.com/",
-  "description": "Practise English with interactive worksheets and activities covering grammar, vocabulary, reading and more, with instant feedback.",
-  "skills": ["read", "write", "practise"],
-  "levels": ["beginner", "intermediate", "advanced"],
-  "collection": "english",
-  "tags": ["Interactive", "Worksheets", "Grammar", "Vocabulary"],
-  "australian": false,
-  "featured": true,
-  "icon": "puzzle"
-}
+{"title":"LiveWorksheets","url":"https://www.liveworksheets.com/","description":"Practise English with interactive worksheets and activities that give instant feedback. Explore grammar, vocabulary, reading and other skills in a more engaging way.","collection":"english","skills":["read","write","practise"],"levels":["beginner","intermediate","advanced"],"tags":["Interactive","Worksheets","Grammar"],"australian":false,"featured":false,"icon":"puzzle"}

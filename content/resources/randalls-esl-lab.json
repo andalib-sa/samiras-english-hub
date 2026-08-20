@@ -1,13 +1,1 @@
-{
-  "id": "randalls-esl-lab",
-  "title": "Randall's ESL Cyber Listening Lab",
-  "url": "https://www.esl-lab.com/",
-  "description": "Practise everyday English listening with conversations, quizzes and study paths organised by topic and difficulty level.",
-  "skills": ["listen", "practise"],
-  "levels": ["beginner", "intermediate", "advanced"],
-  "collection": "english",
-  "tags": ["Free", "Listening", "Quizzes"],
-  "australian": false,
-  "featured": true,
-  "icon": "headphones"
-}
+{"title":"Randall's ESL Cyber Listening Lab","url":"https://www.esl-lab.com/","description":"This listening lab gives you access to a large collection of everyday conversations followed by quizzes. Choose activities by level so you can practise at the right difficulty for you.","collection":"english","skills":["listen","practise"],"levels":["beginner","intermediate","advanced"],"tags":["Listening","Quizzes","Free"],"australian":false,"featured":false,"icon":"headphones"}

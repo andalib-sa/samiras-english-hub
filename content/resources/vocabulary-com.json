@@ -1,13 +1,1 @@
-{
-  "id": "vocabulary-com",
-  "title": "Vocabulary.com",
-  "url": "https://www.vocabulary.com/",
-  "description": "Expand your word knowledge with friendly definitions, word-learning activities and engaging vocabulary practice.",
-  "skills": ["read", "write", "practise"],
-  "levels": ["intermediate", "advanced"],
-  "collection": "dictionary",
-  "tags": ["Dictionary", "Vocabulary", "Interactive"],
-  "australian": false,
-  "featured": false,
-  "icon": "book"
-}
+{"title":"Vocabulary.com","url":"https://www.vocabulary.com/","description":"Expand your word knowledge with Vocabulary.com, where friendly definitions and engaging activities make learning new words more memorable and enjoyable.","collection":"dictionary","skills":["read","write","practise"],"levels":["intermediate","advanced"],"tags":["Dictionary","Vocabulary","Interactive"],"australian":false,"featured":false,"icon":"book"}

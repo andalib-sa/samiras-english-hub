@@ -1,13 +1,1 @@
-{
-  "id": "deakin-study-guides",
-  "title": "Deakin Study Support Guides",
-  "url": "https://www.deakin.edu.au/students/study-support/study-resources/study-support-guides",
-  "description": "Learn about academic style and access practical guides for essays, reports, literature reviews, paragraph structure and other study skills.",
-  "skills": ["write", "read"],
-  "levels": ["intermediate", "advanced"],
-  "collection": "academic",
-  "tags": ["Academic Writing", "Study Skills", "University"],
-  "australian": true,
-  "featured": true,
-  "icon": "graduation"
-}
+{"title":"Deakin Study Support Guides","url":"https://www.deakin.edu.au/students/study-support/study-resources/study-support-guides","description":"Academic writing is usually formal, objective and cautious. Deakin’s study resources can help with essays, reports, literature reviews, paragraph structure and other academic writing skills.","collection":"academic","skills":["write","read"],"levels":["intermediate","advanced"],"tags":["Academic Writing","Study Skills","University"],"australian":true,"featured":true,"icon":"graduation"}

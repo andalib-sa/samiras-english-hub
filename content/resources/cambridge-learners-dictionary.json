@@ -1,13 +1,1 @@
-{
-  "id": "cambridge-learners-dictionary",
-  "title": "Cambridge Learner's Dictionary",
-  "url": "https://dictionary.cambridge.org/dictionary/learner-english/",
-  "description": "Build vocabulary, check pronunciation, learn useful collocations and see how words are naturally used in clear example sentences.",
-  "skills": ["read", "write", "speak"],
-  "levels": ["intermediate"],
-  "collection": "dictionary",
-  "tags": ["Dictionary", "Vocabulary", "Pronunciation", "Free"],
-  "australian": false,
-  "featured": true,
-  "icon": "book"
-}
+{"title":"Cambridge Learner's Dictionary","url":"https://dictionary.cambridge.org/dictionary/learner-english/","description":"The Cambridge Learner’s Dictionary includes the words, phrases and collocations intermediate learners need. Clear definitions, audio pronunciation and carefully chosen examples help you write and speak English more naturally.","collection":"dictionary","skills":["read","write","speak"],"levels":["intermediate"],"tags":["Dictionary","Vocabulary","Pronunciation"],"australian":false,"featured":true,"icon":"book"}

@@ -1,13 +1,1 @@
-{
-  "id": "gcfglobal",
-  "title": "GCFGlobal",
-  "url": "https://edu.gcfglobal.org/en/",
-  "description": "Develop practical digital, literacy, maths and workplace skills through clear, self-paced tutorials.",
-  "skills": ["read", "practise"],
-  "levels": ["beginner", "intermediate"],
-  "collection": "english",
-  "tags": ["Free", "Digital Skills", "Workplace"],
-  "australian": false,
-  "featured": false,
-  "icon": "computer"
-}
+{"title":"GCFGlobal","url":"https://edu.gcfglobal.org/en/","description":"Do you want to improve the technology, literacy and maths skills you need for work and everyday life? GCFGlobal offers clear, self-paced tutorials across a wide range of practical topics.","collection":"english","skills":["read","practise"],"levels":["beginner","intermediate"],"tags":["Digital Skills","Literacy","Workplace"],"australian":false,"featured":false,"icon":"computer"}
