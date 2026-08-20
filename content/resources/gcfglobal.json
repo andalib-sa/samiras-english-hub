@@ -1,0 +1,13 @@
+{
+  "id": "gcfglobal",
+  "title": "GCFGlobal",
+  "url": "https://edu.gcfglobal.org/en/",
+  "description": "Develop practical digital, literacy, maths and workplace skills through clear, self-paced tutorials.",
+  "skills": ["read", "practise"],
+  "levels": ["beginner", "intermediate"],
+  "collection": "english",
+  "tags": ["Free", "Digital Skills", "Workplace"],
+  "australian": false,
+  "featured": false,
+  "icon": "computer"
+}

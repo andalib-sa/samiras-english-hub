@@ -1,0 +1,13 @@
+{
+  "id": "adelaide-writing-centre",
+  "title": "University of Adelaide Writing Centre",
+  "url": "https://www.adelaide.edu.au/writingcentre/resources",
+  "description": "Explore self-study resources to develop academic writing, structure, editing and study skills.",
+  "skills": ["write", "read"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "academic",
+  "tags": ["Academic Writing", "Study Skills", "University"],
+  "australian": true,
+  "featured": false,
+  "icon": "graduation"
+}

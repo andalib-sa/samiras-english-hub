@@ -1,0 +1,13 @@
+{
+  "id": "deakin-study-guides",
+  "title": "Deakin Study Support Guides",
+  "url": "https://www.deakin.edu.au/students/study-support/study-resources/study-support-guides",
+  "description": "Learn about academic style and access practical guides for essays, reports, literature reviews, paragraph structure and other study skills.",
+  "skills": ["write", "read"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "academic",
+  "tags": ["Academic Writing", "Study Skills", "University"],
+  "australian": true,
+  "featured": true,
+  "icon": "graduation"
+}

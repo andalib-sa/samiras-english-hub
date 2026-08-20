@@ -1,0 +1,13 @@
+{
+  "id": "sbs-learn-english",
+  "title": "SBS Learn English",
+  "url": "https://www.sbs.com.au/language/english/en/learn-english",
+  "description": "Improve your English with practical lessons, podcasts and videos about everyday communication and life in Australia.",
+  "skills": ["listen", "speak", "read"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "english",
+  "tags": ["Australian English", "Free", "Audio", "Video"],
+  "australian": true,
+  "featured": true,
+  "icon": "headphones"
+}

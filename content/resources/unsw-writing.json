@@ -1,0 +1,13 @@
+{
+  "id": "unsw-writing",
+  "title": "UNSW Writing Skills Support",
+  "url": "https://www.unsw.edu.au/student/managing-your-studies/academic-skills-support/toolkit/writing",
+  "description": "Strengthen academic writing with guides for essays, reports, grammar, style, reflective writing, literature reviews and research writing.",
+  "skills": ["write", "read"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "academic",
+  "tags": ["Academic Writing", "Essays", "Reports", "University"],
+  "australian": true,
+  "featured": true,
+  "icon": "graduation"
+}

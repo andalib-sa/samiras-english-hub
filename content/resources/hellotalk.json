@@ -1,0 +1,13 @@
+{
+  "id": "hellotalk",
+  "title": "HelloTalk",
+  "url": "https://www.hellotalk.com/",
+  "description": "Connect with language learners around the world and practise English through text and conversation. Use the platform's safety and reporting features when interacting with others.",
+  "skills": ["speak", "listen", "write"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "community",
+  "tags": ["Community", "Language Exchange", "Speaking"],
+  "australian": false,
+  "featured": false,
+  "icon": "community"
+}

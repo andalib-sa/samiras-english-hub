@@ -1,0 +1,13 @@
+{
+  "id": "all-things-topics",
+  "title": "All Things Topics",
+  "url": "https://www.allthingstopics.com/",
+  "description": "Explore free audio, videos, quizzes, printable worksheets and lesson activities organised around everyday topics and language levels.",
+  "skills": ["listen", "read", "speak", "practise"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "english",
+  "tags": ["Free", "Worksheets", "Audio", "Video"],
+  "australian": false,
+  "featured": false,
+  "icon": "puzzle"
+}

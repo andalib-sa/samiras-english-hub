@@ -1,0 +1,13 @@
+{
+  "id": "coursera-academic-english",
+  "title": "Coursera Academic English",
+  "url": "https://www.coursera.org/specializations/academic-english",
+  "description": "Follow structured online courses designed to develop academic writing, research and communication skills.",
+  "skills": ["write", "read"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "academic",
+  "tags": ["Course", "Academic English", "Structured Learning"],
+  "australian": false,
+  "featured": false,
+  "icon": "graduation"
+}

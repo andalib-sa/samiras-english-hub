@@ -1,0 +1,13 @@
+{
+  "id": "randalls-esl-lab",
+  "title": "Randall's ESL Cyber Listening Lab",
+  "url": "https://www.esl-lab.com/",
+  "description": "Practise everyday English listening with conversations, quizzes and study paths organised by topic and difficulty level.",
+  "skills": ["listen", "practise"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "english",
+  "tags": ["Free", "Listening", "Quizzes"],
+  "australian": false,
+  "featured": true,
+  "icon": "headphones"
+}

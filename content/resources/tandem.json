@@ -1,0 +1,13 @@
+{
+  "id": "tandem",
+  "title": "Tandem Language Exchange",
+  "url": "https://www.tandem.net/",
+  "description": "Find a language-exchange partner and practise real English through messages, voice notes and conversations. Protect your personal information when meeting people online.",
+  "skills": ["speak", "listen"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "community",
+  "tags": ["Community", "Language Exchange", "Speaking"],
+  "australian": false,
+  "featured": false,
+  "icon": "community"
+}

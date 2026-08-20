@@ -1,0 +1,13 @@
+{
+  "id": "bbc-english-at-university",
+  "title": "BBC Learning English: English at University",
+  "url": "https://www.bbc.co.uk/learningenglish/english/features/english-at-university",
+  "description": "Practise useful English for university situations through short videos, listening and language activities.",
+  "skills": ["listen", "speak", "read"],
+  "levels": ["intermediate"],
+  "collection": "academic",
+  "tags": ["Academic English", "Listening", "Video"],
+  "australian": false,
+  "featured": false,
+  "icon": "graduation"
+}

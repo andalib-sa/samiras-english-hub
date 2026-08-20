@@ -1,0 +1,13 @@
+{
+  "id": "british-council-learning-hub",
+  "title": "British Council Learning Hub",
+  "url": "https://learnenglish.britishcouncil.org/free-resources/learning-hub/discussions",
+  "description": "Join facilitated discussions, write comments, record speaking responses and learn by interacting with English learners around the world.",
+  "skills": ["speak", "write", "practise"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "community",
+  "tags": ["Community", "Free", "Speaking", "Writing"],
+  "australian": false,
+  "featured": true,
+  "icon": "community"
+}

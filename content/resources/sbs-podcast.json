@@ -1,0 +1,13 @@
+{
+  "id": "sbs-podcast",
+  "title": "SBS Learn English Podcast",
+  "url": "https://www.sbs.com.au/language/english/en/podcast/sbs-learn-english",
+  "description": "Listen to practical Australian English and build vocabulary, pronunciation and listening confidence through short podcast episodes.",
+  "skills": ["listen"],
+  "levels": ["beginner", "intermediate"],
+  "collection": "english",
+  "tags": ["Australian English", "Free", "Podcast"],
+  "australian": true,
+  "featured": false,
+  "icon": "audio"
+}

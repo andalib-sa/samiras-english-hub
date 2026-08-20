@@ -1,0 +1,13 @@
+{
+  "id": "btn",
+  "title": "Behind the News (BTN)",
+  "url": "https://www.abc.net.au/btn",
+  "description": "Build listening and reading skills while learning about Australian and world news through clear, engaging stories and videos.",
+  "skills": ["listen", "read"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "english",
+  "tags": ["Australian English", "Free", "News", "Video"],
+  "australian": true,
+  "featured": true,
+  "icon": "news"
+}

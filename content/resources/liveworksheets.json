@@ -1,0 +1,13 @@
+{
+  "id": "liveworksheets",
+  "title": "LiveWorksheets",
+  "url": "https://www.liveworksheets.com/",
+  "description": "Practise English with interactive worksheets and activities covering grammar, vocabulary, reading and more, with instant feedback.",
+  "skills": ["read", "write", "practise"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "english",
+  "tags": ["Interactive", "Worksheets", "Grammar", "Vocabulary"],
+  "australian": false,
+  "featured": true,
+  "icon": "puzzle"
+}

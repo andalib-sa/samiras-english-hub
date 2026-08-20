@@ -1,0 +1,13 @@
+{
+  "id": "academic-phrasebank",
+  "title": "Academic Phrasebank",
+  "url": "https://www.phrasebank.manchester.ac.uk/",
+  "description": "Find useful academic phrases for comparing, contrasting, describing processes, discussing results and developing an academic argument.",
+  "skills": ["write"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "academic",
+  "tags": ["Academic Writing", "Phrasebank", "Vocabulary"],
+  "australian": false,
+  "featured": true,
+  "icon": "pen"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vocabulary-com",
+  "title": "Vocabulary.com",
+  "url": "https://www.vocabulary.com/",
+  "description": "Expand your word knowledge with friendly definitions, word-learning activities and engaging vocabulary practice.",
+  "skills": ["read", "write", "practise"],
+  "levels": ["intermediate", "advanced"],
+  "collection": "dictionary",
+  "tags": ["Dictionary", "Vocabulary", "Interactive"],
+  "australian": false,
+  "featured": false,
+  "icon": "book"
+}

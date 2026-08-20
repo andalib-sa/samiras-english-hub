@@ -1,0 +1,13 @@
+{
+  "id": "englishclub",
+  "title": "EnglishClub",
+  "url": "https://www.englishclub.com/",
+  "description": "Build your English through grammar, vocabulary, pronunciation, quizzes and opportunities to communicate with other learners.",
+  "skills": ["speak", "read", "write", "practise"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "collection": "community",
+  "tags": ["Community", "Free", "Grammar", "Vocabulary"],
+  "australian": false,
+  "featured": true,
+  "icon": "community"
+}
